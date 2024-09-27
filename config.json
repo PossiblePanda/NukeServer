@@ -1,0 +1,15 @@
+{
+    "server_name": "My server",
+    "server_description": "A cool server!",
+
+    "channels": [
+        "general",
+        "gaming",
+        "music",
+        "test1",
+        "test2"
+    ],
+
+    "host": "default",
+    "port": "default"
+}
